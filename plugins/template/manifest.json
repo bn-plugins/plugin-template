@@ -14,5 +14,7 @@
         ]
     },
     "main": "src/index.ts",
-    "bunny": {}
+    "extras": {
+        "bunny": {}
+    }
 }
